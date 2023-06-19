@@ -4,7 +4,7 @@
 
 ## Description
 
-Provide a brief description of your project, including its purpose and key features. Explain why it is valuable and how it can benefit users.
+https://app.screencastify.com/manage/videos/byQxPGz5GAIFchyNZ8CS
 
 ## Table of Contents
 
@@ -19,14 +19,13 @@ Provide a brief description of your project, including its purpose and key featu
 Follow these steps to install and set up the project locally:
 
 1. Clone the repository.
-   ```bash
-   git clone https://github.com/DanielkKostich/commerce_backend
-   cd commerce_backend
+
+ clone https://github.com/DanielkKostich/commerce_backend
+ cd commerce_backend
 Install the dependencies.
 
-
 npm install
-Set up the database:
+
 
 Create a .env file in the project's root directory.
 Configure the database connection by adding the following lines to the .env file:
